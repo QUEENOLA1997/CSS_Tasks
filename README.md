@@ -1,2 +1,2 @@
-# CSS_Tasks
-For my 1st semester AltSchool CSS Assignment
+# HTML_Task_Assignments
+For my 1st semester AltSchool HTML Assignment
